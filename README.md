@@ -2,6 +2,9 @@
 This project analyzes over 100,000 ecommerce transactions from 2016–2018 using SQL and Python. Key insights include monthly sales trends, category-wise revenue, customer retention rates, top sellers, and more. It demonstrates a complete data pipeline from raw data ingestion to actionable business insights.
 
 ---
+Note: Download the datasets from the gdrive link provided in the txt file to work the code seamlessly.
+--
+---
 🔧 Tools & Technologies
 Python (Pandas, NumPy, Matplotlib, Seaborn)
 
